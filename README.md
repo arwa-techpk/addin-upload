@@ -1,4 +1,4 @@
-# Media Files Add-in Example
+# Media Files Add-in Demo by Azhar for GeoTab
 
 This add-in illustrates Adding, Uploading, Getting, Downloading and Removing Media Files using the API.
 
@@ -6,11 +6,10 @@ This add-in illustrates Adding, Uploading, Getting, Downloading and Removing Med
 
 To run the add-in locally:
 
-Make sure to have [nodejs](https://nodejs.org/en/) latest LTS installed.
+Make sure to have [nodejs](https://nodejs.org/en/) latest LTS installed. v16
 
 ```shell
-> git clone https://github.com/Geotab/mg-media-files.git mg-media-files
-> cd mg-media-files/addin-media-files
+> git clone https://github.com/arwa-techpk/addin-upload.git
 > npm install
 > npm run serve
 ```
